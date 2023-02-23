@@ -43,13 +43,12 @@ function Footer() {
                     <img className="footer__endlogo" src="http://pngimg.com/uploads/amazon/amazon_PNG11.png" alt="" />
                 </div>
                 <div className="footer__last">
-                    <p>
-                        <span>Conditions of Use & Sale
-                        </span>
-                        <span>Privacy Notice</span>
+                    <p className='new'>
+                        <span>Conditions of Use & Sale</span>
+                         <span>Privacy Notice</span>
                         <span>Interest-Based Ads</span>
                     </p>
-                    <p>
+                    <p className='newtwo'>
 
                         <span className='span_one'>
                             © 1996-2023
