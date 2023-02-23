@@ -62,3 +62,13 @@
     margin-top: 10px;
     border-color: darkgray;
 }
+
+@media screen and (max-width:600px) {
+    .login{
+        width: 100%;
+        border: 1px solid black;
+    }
+    .login__container{
+        width: 200px;
+    }
+}
