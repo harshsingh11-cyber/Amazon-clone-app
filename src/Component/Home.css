@@ -19,3 +19,9 @@
     margin-right: 5px;
 
 }
+@media screen and (max-width: 600px){
+    .home__row{
+        flex-direction: column;
+        align-items: center;
+    } 
+}
